@@ -1,0 +1,18 @@
+.content {
+	font-size: 25px;
+}
+
+#symbol{
+	color: #f70;
+}
+
+li{
+	list-style-type: none;
+}
+
+ li:before {
+    color: #000;
+    content: "•";
+    display: inline-block;
+    width: 1em;
+ }
