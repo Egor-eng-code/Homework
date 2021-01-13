@@ -1,0 +1,62 @@
+h1{
+	color: orange;
+	text-align: right;
+	font-size: 45px;
+}
+
+.text_header{
+	font-size: 30px;
+
+}
+
+#big-letter{
+	color: red;
+	font-size: 45px;
+}
+
+em{
+	background: green;
+	color: white;
+}
+
+h2{
+	color: orange;
+	font-size: 45px;
+}
+
+#h_warehouse{
+	color: blue;
+}
+
+#fruits{
+	color: grey;
+	font-size: 20px;
+}
+
+#vegetables{
+	color: red;
+	font-size: 20px;
+}
+
+#fruits_color_green{
+	color: green;
+	font-size: 20px;
+}
+
+span{
+	font-size: 25px;
+	font-weight: bold;
+}
+ #names{
+ 	color: orange;
+ }
+
+ #bold-font{
+ 	font-weight: bold;
+ 	font-size: 20px;
+ }
+
+ #green-numbers{
+ 	background: green;
+ 	color: white;
+ }
