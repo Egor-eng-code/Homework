@@ -21,6 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,7 +33,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609693509717</updated>
       <workItem from="1609693510846" duration="945000" />
-      <workItem from="1611737794199" duration="778000" />
+      <workItem from="1611737794199" duration="9459000" />
+      <workItem from="1611748672814" duration="4000" />
     </task>
     <servers />
   </component>
